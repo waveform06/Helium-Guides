@@ -16,7 +16,7 @@ The Nebra Outdoor Helium Hotspot is an ideal solution for providing great Helium
 | **Annual Power Consumption** | ~105-130kWh |
 | **Maximum TX Power** | 24-27dBm** |
 | **Network Connectivity** | 10/100 Ethernet, 2.4Ghz 802.11N Wi-Fi, Optional 4G Module available separately.|
-| **Antenna Connection** | N Type Female |
+| **Antenna Connection** | N Type Female : Needs N-Type Male on Antenna/cable |
 
 ###### * Average Power Consumption Measured At Mains, higher average consumption when the optional 4G Module is used.
 ###### ** Maximum TX Power may be capped to a lower amount in some regions.
