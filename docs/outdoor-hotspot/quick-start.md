@@ -6,7 +6,8 @@
 Your Nebra Outdoor Helium Hotspot comes with the following items:
 
 * The Nebra Helium Outdoor Hotspot
-* 3 dBi N-Type Glass Fiber Antenna
+* 3 dBi N-Type Lorawan Glass Fiber Antenna (Grey)
+* N-Type Wifi Plastic Antenna (White)
 
 You will need a power source such as a DC Power Supply, or provide both combined power and network connection by using Power Over Ethernet with the unit.
 
@@ -15,26 +16,27 @@ Please remember to follow the following steps when using your Nebra Outdoor Hots
 
 * Never power on the Outdoor hotspot without it's antenna connected as this may damage the unit.
 
-### Preparing Your Nebra Outdoor Hotspot
+### Preparing Your Nebra Outdoor Hotspot - Wifi or Ethernet
 
-This section will be written soon.
+The Lorawan antenna should be connected to the N-Type connector in the middle of one side opposite the black RJ45 POE connector.
+The Wifi antenna should be connected to the N-Type connector offset to the side of the black RJ45 POE connector.
 
 ## Configuring Your Nebra Outdoor Hotspot
 
 To configure your Hotspot you will require the Helium Network application installed on a Mobile Phone and for you to have gone through the account setup process to continue.
 
-**Step 1:** Open the Helium application and login, then press hotspots.
+**Step 1:** Open the Helium application and login, then Click the HOME Icon (a house)
 
-**Step 2:** Next click Set up Hotspot , from here you will want to select Nebra Outdoor Hotspot.
+**Step 2:** Next click the PLUS Icon on top right, from here you will want to select Nebra Outdoor Hotspot.
 
 ![Android Placeholder](../media/screenshots/ios/hs-02.png  ':size=350')
 
 
-**Step 3:** After following the steps on the App to get to this page, Push the button on the back of the unit once to enable pairing and then press scan on the App.
+**Step 3:** After following the Diagnostics and Power Up steps on the App you will get to the Bluetooth screen. Bluetooth will is enabled from 1 to 10 minutes after powering up the hotspot. 
 
 ![Android Placeholder](../media/screenshots/ios/hs-06.png  ':size=350')
 
-**Step 5:** Press the entry for your hotspot in the app, you can check it is the correct one by matching the last 6 characters shown in the application with the last 6 characters of the mac address printed on the sticker on the bottom of the hotspot.
+**Step 5:** Press the entry for your hotspot in the app, you can check it is the correct one by matching the last 6 characters shown in the application with the last 6 characters of the mac address printed on the sticker that comes in the box or the one on the inside of the hotspot.
 
 ![Android Placeholder](../media/screenshots/ios/hs-08-o.png  ':size=350')
 
@@ -61,3 +63,5 @@ Type in your Wi-Fi's network password then tap Connect and it should connect to 
 **Step 9:** The setup should now be complete, it'll submit the details of the Hotspot to the Helium network and then within 15 minutes confirm it's added to the network.
 
 ![Android Placeholder](../media/screenshots/ios/hs-18.png  ':size=350')
+
+If the Onboarding 
